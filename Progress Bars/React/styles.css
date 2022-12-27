@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+.outer {
+    background-color: lightgray;
+    height: 10px;
+}
+
+.inner {
+    background-color: green;
+    height: 100%;
+}
+
+.progressBars {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
